@@ -1,9 +1,21 @@
 #easy {
-  width: 300px;
-  height: 300px;
-  border-radius: 150px;
+  width: 400px;
+  height: 400px;
+  border-radius: 2000px;
   border-color: black;
   background-color: red;
   font-size: 50px;
   color: white;
+}
+img {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    text-align: center;
+    font-family: "Arial";
+    color: #40E0D0 ;
+    background-image: url("https://lh3.googleusercontent.com/-edRx--IBvb4/WhMv5bkX8rI/AAAAAAAABso/CUmeyQyL6QEJ9nKegQf93HMJfjX9V7dvQCL0BGAs/w530-d-h298-n-rw/Alien%2BContest%2BTest14.png")
 }
